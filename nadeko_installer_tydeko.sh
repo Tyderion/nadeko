@@ -29,7 +29,7 @@ cd "$root"
 
 echo ""
 echo "Downloading NadekoBot, please wait."
-git clone -b feature/regex-reactions --recursive --depth 1 https://github.com/Tyderion/NadekoBot.git
+git clone -b feature/regex-reactions-seperate --recursive --depth 1 https://github.com/Tyderion/NadekoBot.git
 echo ""
 echo "NadekoBot downloaded."
 
